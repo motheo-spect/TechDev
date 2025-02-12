@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechDev
+- 👋 Hi, I’m a TechDev
 - 👀 I’m interested in IT in Software Development and Cloud Development.
 - 🌱 I’m a Microsoft Azure certified Cloud Developer
 - 💞️ I’m looking to collaborate on exciting developer projects that will add to my profile.
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I'm Batman.
 
 <!---
-TechDevSK/TechDevSK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TechDevTeo/TechDevTeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
